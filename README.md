@@ -2,6 +2,7 @@
 
 > 学术论文精读助手技能 — 输入 arXiv 链接或 PDF，输出结构化中文精读报告：核心问题、方法、结论、局限性、引用价值评分。
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Allen091080/paper-digest/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)](.)
